@@ -560,7 +560,7 @@ h1, h2, h2 a { color: #111111; }
 #header, .post_box, .teasers_box, #footer, .image_box, .custom_box, #feature_box, #archive_intro, .prev_next, #comment_nav_2 { border-width: 0; }
 
 /*---:[ custom header image ]:---*/
-#header { height: 20.3em; padding: 0; background-image: url('http://www.winbinventures.com/wp-content/uploads/2012/08/cropped-winBinHeader1.jpg'); background-repeat: no-repeat; background-size: 73.1em 20.3em; }
+#header { height: 20.3em; padding: 0; background-image: url('./cropped-winBinHeader1.jpg'); background-repeat: no-repeat; background-size: 73.1em 20.3em; }
 #logo a { display: block; width: 20.306em; height: 5.639em; text-indent: -9999px; outline: none; }
 
 /*---:[ Gravity Forms Styling ]:---*/

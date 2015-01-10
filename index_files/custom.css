@@ -1,9 +1,9 @@
 body {
-	background: url(http://www.winbinventures.com/wp-content/uploads/2012/08/dark_leather.png);
+	background: url(./dark_leather.png);
 	padding: 20px 0;
 }
 .menu {
-	background: #fff url('http://www.winbinventures.com/wp-content/uploads/2012/07/winBinLogo1.jpg') no-repeat left center;
+	/*background: #fff url('http://www.winbinventures.com/wp-content/uploads/2012/07/winBinLogo1.jpg') no-repeat left center;*/
 	height: 89px;
 	padding-left: 320px;
 }
